@@ -1,0 +1,158 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+#title {
+    background-color: #fff;
+    color: #b52828;
+    padding: 0 0 4.515 rem;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3.5rem;
+}
+
+h2 {
+    color: #b52828;
+}
+
+.title-img {
+    width: 80%;
+    right: 30%;
+}
+
+.founder {
+    color: black;
+    padding-left: 150px;
+}
+
+.founder-pic {
+    width: 90%;
+    right: 30%;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+#features {
+    margin: 7% 15%;
+    background-color: white;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.meat {
+    width: 70%;
+}
+
+.gambling {
+    width: 70%
+}
+
+.sex {
+    width: 70%;
+}
+
+.alcohol {
+    width: 70%
+}
+
+.features-heading {
+    text-align: center;
+    text-decoration: solid;
+    color: #b52828;
+    text-decoration: underline;
+    text-decoration-color: #b52828;
+}
+
+.about-us {
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+}
+
+.chanting {
+    width: 100%;
+}
+
+.bg {
+    width: 100%;
+    padding-left: 20px;
+}
+
+.kirtan {
+    width: 100%;
+}
+
+.book {
+    width: 100%;
+}
+
+.pricing-heading {
+    text-align: center;
+    padding-bottom: 50px;
+    text-decoration: underline;
+    text-decoration-color: #b52828;
+}
+
+#pricing {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.card {
+    padding-top: 30px;
+}
+
+.achieve {
+    text-align: left;
+    padding: 100px 100px 100px 100px;
+}
+
+.achieve-heading {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #b52828;
+    padding-bottom: 50px;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #2d2b2b;
+    color: #fff;
+}
+
+.social {
+    margin: 20px 10px;
+}
+
+.achieve-heading {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #b52828;
+    padding-bottom: 50px;
+}
+
+.contact-us {
+        text-align: left;
+        padding: 100px 100px 100px 100px;
+}
